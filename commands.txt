@@ -1,0 +1,7 @@
+git init 
+git branch -M
+git remote add 'origin' main https://github.com/Vohizy/MGT1
+git add .
+git push origin main
+git add .
+git push
