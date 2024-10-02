@@ -1,0 +1,4 @@
+git pull permèttre de récuperé et mèttre à jour le dépôt vers dépôt local
+git clone pour clone une autre depôt vers mon propre compte 
+fork c'est pour clone dépôt dans mon propre compte et le proprietère de ce dépôt vois qui sont les personne qui la clone et il vois et accepte le modification
+une pull request (PR) c'est de envoyer une modification et en attendant l'acceptation de la modification exact pour le mettre dans le branch principal
